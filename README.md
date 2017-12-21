@@ -9,9 +9,11 @@ Gives the output file __out.txt__
 
 File information:
 
-Lex.java - takes input file and output file, and sorts the lines of the input file using modified merge sort algorithm and prints the result to the output file
+__Lex.java__ - takes input file and output file, and sorts the lines of the input file using modified merge sort algorithm and prints the result to the output file
 
-List.java - standard list ADT
+__List.java__ - standard list ADT
 
-Makefile - compiles the files
+__ListClient.java__ - basic test file for list ADT
+
+__Makefile__ - compiles the files
 
