@@ -1,7 +1,7 @@
-# Lex-C
+# Lex-Java
 Takes a file and using a list ADT rearranges the lines in alphabetical order 
 
-Programmed using C
+Programmed using Java
 
 Given an input file like __in.txt__
 
